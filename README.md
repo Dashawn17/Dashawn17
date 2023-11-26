@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dashawn17
 - 👀 I’m interested in Bananda Disease Recognition 
 - 🌱 I’m currently learning that banana disease causes the bananas to negatively impact the yield and quality of bananas, leading to significant economic losses for farmers.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Banada disease
 - 📫 How to reach me Dashawnflintroy11@gmail.com
 - what are the sources of the Bananda disease?
 - why is it bad for the banana?

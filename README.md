@@ -6,7 +6,9 @@
 - what are the sources of the Bananda disease?
 - why is it bad for the banana?
 - what are the side effects of banana disease?
-- What is the disease's origin? 
+- What is the disease's origin?
+- Vitamin A in bananas supports healthy vision, and they may contribute to age-related macular degeneration prevention.
+- diseases in crops pose a significant challenge to agricultural production.
 <!---
 Dashawn17/Dashawn17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
